@@ -3,7 +3,7 @@
 
 # Welcome to my Github Profile
 
-I am a McMaster University graduated who studied software engineering. I enjoy learning **Typescript**, **Python**, and **React**. Currently focusing on learning full stack development, with an interest in delving deeper into backend engineering.
+I am a McMaster University graduate who studied software engineering. I enjoy learning **Typescript**, **Python**, and **React**. Currently focusing on learning full stack development, with an interest in delving deeper into backend engineering.
 
 **Please check out my [personal website](https://calvynsiongv2.netlify.app/)!** 
 
