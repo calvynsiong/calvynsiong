@@ -10,7 +10,6 @@ I am a McMaster University graduate who studied software engineering. I enjoy le
 I am open to collaborate with others on a project.
 ### Reach me at [calvyn360@gmail.com](mailto:calvyn360@gmail.com)
 
-Check out my project section for a breakdown of the different repos
 
 Fun Fact: Chris Bosh knows how to code in Javascript. Wonder if he knows closures and async/await.
 
